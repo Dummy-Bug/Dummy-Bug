@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Laxit Rana </h1>
-<h3 align="center">A CSE Undergraduate student, an aspiring Data Scientist.</h3>
+<h3 align="center">A CSE undergraduate student, an aspiring Data Scientist.</h3>
 
 <!--
 **Dummy-Bug/Dummy-Bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
