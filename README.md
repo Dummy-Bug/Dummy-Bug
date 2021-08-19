@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **Kaggle Competitions**
 
-- 💬 Ask me about **Data structure and ALgorithms**
+- 💬 Ask me about **Data structure and Algorithms**
 
 - 📫 How to reach me: **laxyrajput@gmail.com**
 <!-- 😄 Pronouns: ...
