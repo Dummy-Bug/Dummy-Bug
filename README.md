@@ -7,11 +7,9 @@
 Here are some ideas to get you started:
   🔭 I’m currently working on Improving my Problem Solving skills 
 -->
-- 🌱 I’m currently getting my hands dirty on **Deep Learning**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤔 I’m looking for help with **Data Science Job or Internships**
 
 - 💬 Ask me about **Data structure and Algorithms**
 
