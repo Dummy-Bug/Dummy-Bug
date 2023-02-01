@@ -1,5 +1,7 @@
 <h1 align="center">Hi There! 👋, I'm Laxit Rana </h1>
-<h3 align="center">A CSE undergraduate student, an aspiring Data Scientist.</h3>
+<h3 align="center">A CSE undergraduate student,Currently learning Data Structure and Algorithms .</h3>
+
+Here is my LeetCode profile https://leetcode.com/DUMMY_BUG/
 
 <!--
 **Dummy-Bug/Dummy-Bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
