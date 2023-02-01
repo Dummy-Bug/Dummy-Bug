@@ -7,7 +7,9 @@
 **Dummy-Bug/Dummy-Bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-  🔭 I’m currently working on Improving my Problem Solving skills 
+-->
+
+- 🔭 I’m currently working on Improving my Problem Solving skills 
 
 - 👯 Here is my LeetCode profile **https://leetcode.com/DUMMY_BUG/**
 
