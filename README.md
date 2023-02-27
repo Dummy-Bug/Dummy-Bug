@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **laxyrajput@gmail.com**
 
-- 😄 Pronouns: ... LAxY
+- 😄 NickName: ... LAxY
 
 - ⚡ Fun fact: ... can you guess a cat which is in the aire ?    ->**Billionaire**-<
 
