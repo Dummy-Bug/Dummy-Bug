@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently learning HTML,CSS and Java Script 
+- 🔭 I’m currently learning React 
 
 - 👯 Here is my LeetCode profile **https://leetcode.com/DUMMY_BUG/**
 
