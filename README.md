@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently learning React 
+- 🔭 I’m currently Spring Boot
 
 - 👯 Here is my LeetCode profile **https://leetcode.com/DUMMY_BUG/**
 
