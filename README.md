@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently Spring Boot
+- 🔭 I’m currently getting my hands dirty with Spring Boot
 
 - 👯 Here is my LeetCode profile **https://leetcode.com/DUMMY_BUG/**
 
