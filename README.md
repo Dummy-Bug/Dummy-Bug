@@ -48,3 +48,9 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dummy-Bug)](https://github.com/Dummy-Bug/github-readme-stats) -->
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dummy-Bug&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
